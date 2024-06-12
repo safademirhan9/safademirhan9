@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=safademirhan9&color=yellow)
-
 ## 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
