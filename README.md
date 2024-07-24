@@ -12,6 +12,3 @@
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/safa-demirhan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=gmail)](mailto:safademirhan88@gmail.com)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safademirhan9&show_icons=true&theme=radical)
