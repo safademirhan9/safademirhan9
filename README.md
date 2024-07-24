@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=safademirhan9&color=yellow)
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 🛠️ Skills
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,6 +23,7 @@
 ![DDD](https://img.shields.io/badge/DDD-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 ## 📫 How to reach me
