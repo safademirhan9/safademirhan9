@@ -13,7 +13,6 @@
 ![Postman](https://img.shields.io/badge/Postman-333?style=flat&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/safa-demirhan/)
